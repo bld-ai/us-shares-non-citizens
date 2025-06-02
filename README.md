@@ -14,6 +14,9 @@ Many non-U.S. citizens encounter challenges when attempting to invest in U.S. co
 - Common issues and troubleshooting advice
 - Regulatory updates affecting non-U.S. investors
 
+## Contents
+- [Guidelines for Philippine Entities](PH-legal-documents.md)
+
 ## Contributing
 
 We encourage the BLD.ai community and other contributors to share valuable insights and resources:
